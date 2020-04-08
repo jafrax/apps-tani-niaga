@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/54470fd660136c560d15f3a0bc47c255/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/385ec88d48477c3a41e642f551ff0107/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/abe022293d7f305fb20aba159db6c4ce/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saifudin/.gradle/caches/transforms-2/files-2.1/6d7afe01ae56be1224f0db92b4dc9851/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e897b202b75b10f29f47025aff26ce62/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e5920f7f3b9ee1f3364b4b65a7b290f5/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a65019b79bbef360271efb775f65671a/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/488ab58e4a78fdbe10b6bdad6c99755d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/c4750dc8f5f41dc07e24d78a25bb1405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/15958c9b3adbfda9f6b6e0b4bab5a79e/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/79d5b41f41d9390e5ac153b402a6696f/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/42241726984794a743a3553864d528ba/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a8f6a929bab929ec4890a5eb2c9af9b3/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/3e4226549627d1b6a8e23b3717d963da/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/67370aece00f6e8ffe0620fd50b609ee/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e3bb295d6944e45e8b97f11b65953eea/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/672cce07ac4eca6aefd8228c928b09c4/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/9cdb61b38e539e7df8c4d9f8cf8e11cb/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/44360a71f632ca2a77cc52352f5cc9e4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/4d8512a784368d635e4451bcc9dbe481/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a786484b4b03f65a7d499fbad30f6e59/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/dfaa0404bca73a54bacf7491adf7d202/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/39e2f846e7336c9c45f116ff051923bf/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/b4c72e6add90f8ef6429ac51950126c2/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2dcf7f249f5c50085d2cf790a8f83866/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/87f37c40ca3f0b0b2df27502737e3832/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e94b969f9bedc73eb1ee7e2736cb4411/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/178551d869e99b8eee8437048e1eafad/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/b8c40cbfa26acd3325daad7873fa8fe4/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/098e51494f1ac2327139927502b63012/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/f439a78425eeeb37e163139127286722/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2b657001da23f19524c9c945cffff19a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/ce7eb617ecef6187c70c664bc30e9a81/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [com.google.android.material:material:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/54470fd660136c560d15f3a0bc47c255/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/54470fd660136c560d15f3a0bc47c255/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saifudin/.gradle/caches/transforms-2/files-2.1/6d7afe01ae56be1224f0db92b4dc9851/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saifudin/.gradle/caches/transforms-2/files-2.1/6d7afe01ae56be1224f0db92b4dc9851/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:6:3-10:17
+MERGED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:6:3-10:17
+MERGED from [androidx.core:core:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a786484b4b03f65a7d499fbad30f6e59/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a786484b4b03f65a7d499fbad30f6e59/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/39e2f846e7336c9c45f116ff051923bf/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/39e2f846e7336c9c45f116ff051923bf/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a786484b4b03f65a7d499fbad30f6e59/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:10:9-44
+activity#mediacomputer.webtn.MainActivity
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/54470fd660136c560d15f3a0bc47c255/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/54470fd660136c560d15f3a0bc47c255/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/385ec88d48477c3a41e642f551ff0107/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/385ec88d48477c3a41e642f551ff0107/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/abe022293d7f305fb20aba159db6c4ce/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/abe022293d7f305fb20aba159db6c4ce/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saifudin/.gradle/caches/transforms-2/files-2.1/6d7afe01ae56be1224f0db92b4dc9851/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saifudin/.gradle/caches/transforms-2/files-2.1/6d7afe01ae56be1224f0db92b4dc9851/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:4:3-70
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e897b202b75b10f29f47025aff26ce62/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e897b202b75b10f29f47025aff26ce62/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e5920f7f3b9ee1f3364b4b65a7b290f5/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e5920f7f3b9ee1f3364b4b65a7b290f5/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a65019b79bbef360271efb775f65671a/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a65019b79bbef360271efb775f65671a/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/488ab58e4a78fdbe10b6bdad6c99755d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/488ab58e4a78fdbe10b6bdad6c99755d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/c4750dc8f5f41dc07e24d78a25bb1405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/c4750dc8f5f41dc07e24d78a25bb1405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/15958c9b3adbfda9f6b6e0b4bab5a79e/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/15958c9b3adbfda9f6b6e0b4bab5a79e/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/79d5b41f41d9390e5ac153b402a6696f/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/79d5b41f41d9390e5ac153b402a6696f/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/42241726984794a743a3553864d528ba/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/42241726984794a743a3553864d528ba/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a8f6a929bab929ec4890a5eb2c9af9b3/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a8f6a929bab929ec4890a5eb2c9af9b3/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/3e4226549627d1b6a8e23b3717d963da/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/3e4226549627d1b6a8e23b3717d963da/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/67370aece00f6e8ffe0620fd50b609ee/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/67370aece00f6e8ffe0620fd50b609ee/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e3bb295d6944e45e8b97f11b65953eea/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e3bb295d6944e45e8b97f11b65953eea/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/672cce07ac4eca6aefd8228c928b09c4/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/672cce07ac4eca6aefd8228c928b09c4/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/9cdb61b38e539e7df8c4d9f8cf8e11cb/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/9cdb61b38e539e7df8c4d9f8cf8e11cb/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/44360a71f632ca2a77cc52352f5cc9e4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/44360a71f632ca2a77cc52352f5cc9e4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/4d8512a784368d635e4451bcc9dbe481/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/4d8512a784368d635e4451bcc9dbe481/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a786484b4b03f65a7d499fbad30f6e59/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a786484b4b03f65a7d499fbad30f6e59/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/dfaa0404bca73a54bacf7491adf7d202/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/dfaa0404bca73a54bacf7491adf7d202/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/39e2f846e7336c9c45f116ff051923bf/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/39e2f846e7336c9c45f116ff051923bf/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/b4c72e6add90f8ef6429ac51950126c2/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/b4c72e6add90f8ef6429ac51950126c2/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2dcf7f249f5c50085d2cf790a8f83866/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2dcf7f249f5c50085d2cf790a8f83866/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/87f37c40ca3f0b0b2df27502737e3832/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/87f37c40ca3f0b0b2df27502737e3832/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e94b969f9bedc73eb1ee7e2736cb4411/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/e94b969f9bedc73eb1ee7e2736cb4411/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/178551d869e99b8eee8437048e1eafad/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/178551d869e99b8eee8437048e1eafad/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/b8c40cbfa26acd3325daad7873fa8fe4/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/b8c40cbfa26acd3325daad7873fa8fe4/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/098e51494f1ac2327139927502b63012/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/098e51494f1ac2327139927502b63012/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/f439a78425eeeb37e163139127286722/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/f439a78425eeeb37e163139127286722/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2b657001da23f19524c9c945cffff19a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2b657001da23f19524c9c945cffff19a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/ce7eb617ecef6187c70c664bc30e9a81/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/ce7eb617ecef6187c70c664bc30e9a81/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+		ADDED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:5-278
+	android:process
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:175-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:227-276
+	android:name
+		ADDED from [com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:15-95

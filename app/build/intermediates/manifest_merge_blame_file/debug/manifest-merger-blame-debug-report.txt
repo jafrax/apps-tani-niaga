@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mediacomputer.webtn"
+4    android:versionCode="3"
+5    android:versionName="3.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:5:5-79
+12-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:6:5-81
+13-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:7:5-80
+14-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:7:22-77
+15
+16    <application
+16-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:9:5-24:19
+17        android:allowBackup="true"
+17-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:11:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.0.0] /home/saifudin/.gradle/caches/transforms-2/files-2.1/a786484b4b03f65a7d499fbad30f6e59/core-1.0.0/AndroidManifest.xml:22:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:12:9-43
+21        android:label="Tani Niaga"
+21-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:13:9-35
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:14:9-54
+23        android:supportsRtl="true"
+23-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:15:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme"
+25-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:16:9-40
+26        android:usesCleartextTraffic="true" >
+26-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:10:9-44
+27        <activity android:name="mediacomputer.webtn.MainActivity" >
+27-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:17:9-23:20
+27-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:17:19-47
+28            <intent-filter>
+28-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:18:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:19:17-69
+29-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:21:17-77
+31-->/home/saifudin/AndroidStudioProjects/Tani-Niaga/app/src/main/AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34        <!-- The activity will be merged into the manifest of the hosting app. -->
+35        <activity
+35-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:5-271
+36            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+36-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:15-102
+37            android:enabled="false"
+37-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:103-126
+38            android:exported="false"
+38-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:127-151
+39            android:launchMode="singleInstance"
+39-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:204-239
+40            android:process=":playcore_missing_splits_activity"
+40-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:152-203
+41            android:stateNotNeeded="true" />
+41-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:8:240-269
+42        <activity
+42-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:5-278
+43            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+43-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:15-95
+44            android:enabled="false"
+44-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:96-119
+45            android:exported="false"
+45-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:120-144
+46            android:process=":playcore_dialog_wrapper_activity"
+46-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:175-226
+47            android:stateNotNeeded="true"
+47-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:145-174
+48            android:theme="@style/Theme.PlayCore.Transparent" />
+48-->[com.google.android.play:core:1.6.4] /home/saifudin/.gradle/caches/transforms-2/files-2.1/2ed947b20e3c058cbe18fab65ab37580/jetified-core-1.6.4/AndroidManifest.xml:9:227-276
+49    </application>
+50
+51</manifest>
